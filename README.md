@@ -85,10 +85,10 @@ This project uses file handling, dictionaries, functions, loops, and modules to 
 
 ## How to Run the Project
 **Step 1:** Install Required Module
-pip install tqdm
+`pip install tqdm`
 
 **Step 2:** Run the Program
-python main.py
+`python main.py`
 
 
 ⚠️ Note:
